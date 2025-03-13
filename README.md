@@ -14,7 +14,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[`Wenura`]**, a Full Stack Developer and Security Engineer with a strong background in software development and cybersecurity. I specialize in building secure applications, conducting security assessments, and developing automated security tools. My expertise spans across web development, application security, and secure software architecture.
+I'm **[`Wenura`]**, an aspiring Cybersecurity Professional and IT undergraduate with a strong foundation in information security and software development. I'm passionate about exploring the intersection of security and technology, focusing on secure coding practices, penetration testing, and cybersecurity tools. My growing expertise includes web security, network defense, and secure application development, backed by hands-on experience through academic projects and security research.
 
 <details>
   <summary>More about me</summary>
