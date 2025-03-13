@@ -60,8 +60,8 @@ tools = ["Git", "VS Code", "Android Studio"]
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coffinxp&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=coffinxp&theme=dark&card_width=450&bg_color=00000000&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wenura&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=wenura&theme=dark&card_width=450&bg_color=00000000&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🤝 Connect With Me
