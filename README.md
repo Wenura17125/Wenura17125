@@ -19,8 +19,8 @@ I'm **[`Wenura`]**, an aspiring Cybersecurity Professional and IT undergraduate 
 <details>
   <summary>More about me</summary>
 
-- **Name**: wenura
-- **From**: Russia
+- **Name**: Wenura
+- **From**: Sri Lanka
 - **Full Stack Developer** | **Security Engineer** | **DevSecOps Practitioner**
 - Experienced in secure software development, API security, and cloud security
 - Proficient in **System Architecture**, **Application Security**, **Cloud Infrastructure**
